@@ -29,5 +29,7 @@ FinSight helps users track spending, manage budgets, and work toward savings goa
 
 ## Case Study
 
-A full visual case study covering the design system, screens, and product thinking behind FinSight is included in this repo.
+👉 **[View the live case study](https://finsight-by-armunstudio.netlify.app/)**
+
+Screen-by-screen breakdowns, the design system, color palette, typography, and tech stack used to build the app — all without needing to clone the repo.
 
