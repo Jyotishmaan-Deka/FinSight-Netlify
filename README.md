@@ -39,5 +39,3 @@ FinSight helps users track spending, manage budgets, and work toward savings goa
 
 Screen-by-screen breakdowns, the design system, color palette, typography, and tech stack used to build the app — all without needing to clone the repo.
 
-with updated link
-
