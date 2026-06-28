@@ -1,6 +1,3 @@
-fi this readme also # FinSight
-
-A modern personal finance companion app for Android — built to turn everyday money management into a simple, insightful habit.
 
 ## About
 
